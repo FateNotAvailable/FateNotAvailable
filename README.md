@@ -3,5 +3,5 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=FateNotAvailable alt=FateNotAvailable /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=FateNotAvailable&show_icons=true&include_all_commits=true)](https://github.com/FateNotAvailable/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FateNotAvailable&layout=compact)](https://github.com/FateNotAvailable/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=FateNotAvailable&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/FateNotAvailable/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FateNotAvailable&layout=compact&theme=dark)](https://github.com/FateNotAvailable/github-readme-stats)
